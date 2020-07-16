@@ -9,5 +9,6 @@ insert css here
 ```
 # Script
 ```javascript
+$("#pageContents").addClass("className");
 insert js here
 ```
