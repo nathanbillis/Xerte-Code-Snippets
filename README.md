@@ -1,5 +1,5 @@
 # Xerte Code Snippets
-Code snippets for use with Xerte (pronounced Zert-ey), 
+Code snippets for use with Xerte (pronounced Zer-tee), 
 
 # Index
 - [Title Page](/Title%20Page)
