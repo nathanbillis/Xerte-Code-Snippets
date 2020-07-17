@@ -2,7 +2,7 @@
 Fades out the title over 3 seconds.
 
 ## Demo
-[![Image from Gyazo](https://i.gyazo.com/9113382c38b790b1b6d6da03bb8357ce.gif)](https://gyazo.com/9113382c38b790b1b6d6da03bb8357ce)
+[![Image from Gyazo](https://i.gyazo.com/7c27b2bfed13a28f483b63cb007cd55c.gif)](https://gyazo.com/7c27b2bfed13a28f483b63cb007cd55c)
 
 # Styles
 ```css
